@@ -143,6 +143,7 @@ body {
 }
 .team-list-item-image {
   background-color: url("path_to_image");
+  display: block;
 }
 .team-list-item-name {
   font-family: var(--font-family);
@@ -209,6 +210,7 @@ body {
 }
 .portfolio-list-item-image {
   background: url("path_to_image");
+  display: block;
 }
 .portfolio-name {
   font-family: "Roboto", sans-serif;
