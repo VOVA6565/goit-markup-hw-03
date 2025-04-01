@@ -68,7 +68,6 @@ body {
 .header-address-list {
   display: flex;
   gap: 40px;
-  margin-right: 40px;
 }
 
 .header-address-item {
