@@ -44,6 +44,7 @@ body {
   justify-content: flex-start;
   flex-direction: row;
   gap: 40px;
+  padding: 24px 0;
 }
 .header-menu-list-link {
   font-family: var(--font-family);
@@ -52,6 +53,8 @@ body {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0 24px;
+  padding-bottom: 24px;
 }
 
 .header-menu-list-link:hover,
