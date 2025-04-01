@@ -92,7 +92,7 @@ img {
   margin: 0 auto;
   margin-bottom: 48px;
 }
-.hero-button {
+.button-order {
   cursor: pointer;
   font-weight: 500;
   font-size: 16px;
@@ -108,8 +108,8 @@ img {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   min-width: 169px;
 }
-.hero-button:hover,
-.hero-button:focus {
+.button-order:hover,
+.button-order:focus {
   background-color: #404bbf;
 }
 /* section 2 */
